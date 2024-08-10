@@ -6,4 +6,6 @@ class cliente {
         this.edad = edad;
         this.inversionIncial = inversionIncial;
     }
+
+    //nueva funcion
 }
