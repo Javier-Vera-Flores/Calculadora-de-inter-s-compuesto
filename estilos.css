@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    border: 12px solid black;
+    border-radius: 73px;
+}
+h2{
+    text-align: center;
+    text-decoration: dashed;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+}
+h3{
+    text-align: center;
+    color: green;
+}
+p{
+
+    margin: 2rem;
+
+}
